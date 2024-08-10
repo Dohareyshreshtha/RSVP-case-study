@@ -1,8 +1,5 @@
 # RSVP Movies: Data-Driven Decision Making for Global Movie Release
 
-![RSVP Movies Logo](https://your-image-hosting-service.com/path-to-your-image.jpg)
-
-
 ## Problem Statement
 
 RSVP Movies, a prominent Indian film production company, is planning to release a movie for a global audience in 2022. To ensure the success of this venture, RSVP Movies has decided to base their decisions on analytical insights derived from data. The company has provided data from movies released over the past three years and seeks meaningful recommendations to guide their next project.
