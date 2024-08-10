@@ -35,17 +35,4 @@ This project involves analyzing the dataset provided by RSVP Movies to draw acti
 ### 5. Potential Actresses
 - Top Indian actresses like Taapsee Pannu, Kriti Sanon, and Divya Dutta, who have received the highest weighted average rating in movies based on the drama genre, can be considered for RSVP's next projects.
 
-## Project Structure
 
-- **Data**: Contains the raw data and any processed data files used for analysis.
-- **Scripts**: Includes all Python scripts used for data cleaning, analysis, and visualization.
-- **Notebooks**: Jupyter notebooks with exploratory data analysis and detailed insights.
-- **Reports**: Summary reports and visualizations that provide insights and recommendations.
-
-## Getting Started
-
-To reproduce the analysis and recommendations:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/RSVP-Movies-Project.git
