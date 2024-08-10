@@ -1,6 +1,7 @@
 # RSVP Movies: Data-Driven Decision Making for Global Movie Release
 
-![RSVP Movies Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/RSVP_Movies_logo.jpg/1200px-RSVP_Movies_logo.jpg)
+![RSVP Movies Logo](https://your-image-hosting-service.com/path-to-your-image.jpg)
+
 
 ## Problem Statement
 
